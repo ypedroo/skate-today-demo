@@ -18,7 +18,7 @@ All keys in appsettings are revoked, so feel free to use your own keys.
 
 
 # License
-This project is licensed under the MIT License.
+This project is licensed under the APACHE License.
 
 # Contributing
 Feel free to contribute!
